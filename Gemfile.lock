@@ -1,0 +1,25 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    coderay (1.1.3)
+    dotenv (2.7.6)
+    httparty (0.15.7)
+      multi_xml (>= 0.5.2)
+    method_source (1.0.0)
+    multi_xml (0.6.0)
+    pry (0.14.1)
+      coderay (~> 1.1)
+      method_source (~> 1.0)
+    shaken_not_stirred (0.0.7)
+      httparty (~> 0.15.7)
+
+PLATFORMS
+  x86_64-darwin-19
+
+DEPENDENCIES
+  dotenv
+  pry
+  shaken_not_stirred (~> 0.0.7)
+
+BUNDLED WITH
+   2.2.8

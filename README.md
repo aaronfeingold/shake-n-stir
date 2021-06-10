@@ -1,3 +1,3 @@
-### Lambda Function Example
+## Lambda Function Example
 
-## Written lean to learn on archlinux
+### Written lean to learn on archlinux
